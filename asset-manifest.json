@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortafolioReact/static/css/main.9b915dc4.css",
+    "main.js": "/PortafolioReact/static/js/main.92dc769e.js",
+    "static/js/453.b21437c2.chunk.js": "/PortafolioReact/static/js/453.b21437c2.chunk.js",
+    "static/media/Work1.png": "/PortafolioReact/static/media/Work1.f83a4b707ea3a2b08851.png",
+    "static/media/Work8.png": "/PortafolioReact/static/media/Work8.6d2b2f50eac86032c892.png",
+    "static/media/Work5.png": "/PortafolioReact/static/media/Work5.c371d99044a3174f9e20.png",
+    "static/media/Work3.png": "/PortafolioReact/static/media/Work3.4561a3ec8f1830998526.png",
+    "static/media/Work4.png": "/PortafolioReact/static/media/Work4.893075ff49c41f3ee9bf.png",
+    "static/media/servicio-diseño.png": "/PortafolioReact/static/media/servicio-diseño.659172891e1d5c17b30e.png",
+    "static/media/about.png": "/PortafolioReact/static/media/about.2e2ff0656525bce2c7ae.png",
+    "static/media/Work9.png": "/PortafolioReact/static/media/Work9.7e576ebdabc2ec3f1b32.png",
+    "static/media/Work2.png": "/PortafolioReact/static/media/Work2.7d625b6887a89439faa9.png",
+    "static/media/me.png": "/PortafolioReact/static/media/me.890657bf47da9b8cab4e.png",
+    "static/media/Work6.png": "/PortafolioReact/static/media/Work6.6ffd6c4984cf4bfb3f10.png",
+    "static/media/servicio-programación.png": "/PortafolioReact/static/media/servicio-programación.cf75c2abe8b2c3213d31.png",
+    "static/media/Work7.png": "/PortafolioReact/static/media/Work7.ae20b0542bc2d8ab1200.png",
+    "index.html": "/PortafolioReact/index.html",
+    "main.9b915dc4.css.map": "/PortafolioReact/static/css/main.9b915dc4.css.map",
+    "main.92dc769e.js.map": "/PortafolioReact/static/js/main.92dc769e.js.map",
+    "453.b21437c2.chunk.js.map": "/PortafolioReact/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b915dc4.css",
+    "static/js/main.92dc769e.js"
+  ]
+}
